@@ -93,7 +93,7 @@ Versión 1.2.0 :
     * [ ] *3. Electrónica*
       * [X] *Sección 1: Visión y detección*
       * [ ] *Sección 2: Comunicaciones*
-      * [ ] *Sección 3: Artilugios y básicos*
+      * [X] *Sección 3: Artilugios y básicos*
     * [ ] *4. Ordenadores y software*
     * [ ] *5. Robots*
     * [ ] *6. Herramientas e ingeniería*
@@ -167,3 +167,4 @@ Versión 1.2.0 :
       * [X] *Armadura antienergía*
   * *3. Electrónica*
     * [X] *Sección 1: Visión y detección*
+    * [X] *Sección 3: Artilugios y básicos*
