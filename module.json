@@ -1,0 +1,98 @@
+{
+  "id": "traveller-2ed-es",
+  "title": "Traveller 2ed [ES]",
+  "description": "Compendios de Traveller 2ed.",
+  "version": "1.1.1",
+  "authors": [
+    {
+      "name": "sharcashmo"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "label": "Habilidades",
+      "name": "habilidades",
+      "type": "Item",
+      "system": "twodsix",
+      "path": "packs/habilidades"
+    },
+    {
+      "label": "Equipo",
+      "name": "equipo",
+      "type": "Item",
+      "system": "twodsix",
+      "path": "packs/equipo"
+    },
+    {
+      "label": "Equipo (catálogo central)",
+      "name": "equipo-catalogo-central",
+      "type": "Item",
+      "system": "twodsix",
+      "path": "packs/equipo-catalogo-central"
+    },
+    {
+      "label": "Vehículos",
+      "name": "vehiculos",
+      "type": "Actor",
+      "system": "twodsix",
+      "path": "packs/vehiculos"
+    },
+    {
+      "label": "Manual Básico",
+      "name": "manuales",
+      "type": "JournalEntry",
+      "system": "twodsix",
+      "path": "packs/manuales"
+    },
+    {
+      "label": "Manual Naval",
+      "name": "manual-naval",
+      "type": "JournalEntry",
+      "system": "twodsix",
+      "path": "packs/manual-naval"
+    },
+    {
+      "label": "Manual Terrestre",
+      "name": "manual-terrestre",
+      "type": "JournalEntry",
+      "system": "twodsix",
+      "path": "packs/manual-terrestre"
+    },
+    {
+      "label": "Compendio del Viajero",
+      "name": "compendio-viajero",
+      "type": "JournalEntry",
+      "system": "twodsix",
+      "path": "packs/compendio-viajero"
+    },
+    {
+      "label": "Catálogo Central de Suministros",
+      "name": "catalogo-central-suministros",
+      "type": "JournalEntry",
+      "system": "twodsix",
+      "path": "packs/catalogo-central-suministros"
+    },
+    {
+      "label": "Tablas",
+      "name": "tablas",
+      "type": "RollTable",
+      "system": "twodsix",
+      "path": "packs/tablas"
+    },
+    {
+      "label": "Naves (manual naval)",
+      "name": "naves-manual-naval",
+      "type": "Actor",
+      "system": "twodsix",
+      "path": "packs/naves-manual-naval"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/sharcashmo/traveller-2ed-es/master/module.json",
+  "license": "https://raw.githubusercontent.com/sharcashmo/traveller-2ed-es/master/LICENSE",
+  "readme": "https://raw.githubusercontent.com/sharcashmo/traveller-2ed-es/master/README.md",
+  "download": "https://github.com/sharcashmo/traveller-2ed-es/archive/V1.1.1.zip"
+}
