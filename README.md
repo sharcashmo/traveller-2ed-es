@@ -1,6 +1,6 @@
 # Traveller 2ed: Compendio en español
 
-Módulo con el compendio en español para el sistema Hardboiled
+Módulo con el compendio en español para el sistema Traveller 2ed.
 
 ## Advertencia
 
