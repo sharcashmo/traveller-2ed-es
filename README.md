@@ -90,9 +90,9 @@ Versión 1.2.0 :
       * [ ] *Sección 7: Ambientes de vacío*
       * [X] *Sección 8: Equipo de supervivencia*
       * [ ] *Sección 9: Refugios en zonas salvajes*
-    * [ ] *3. Electrónica*
+    * [X] *3. Electrónica*
       * [X] *Sección 1: Visión y detección*
-      * [ ] *Sección 2: Comunicaciones*
+      * [X] *Sección 2: Comunicaciones*
       * [X] *Sección 3: Artilugios y básicos*
     * [ ] *4. Ordenadores y software*
     * [ ] *5. Robots*
@@ -101,7 +101,7 @@ Versión 1.2.0 :
     * [ ] *8. Aumentos personales*
       * [X] *Sección 1: Miembros*
       * [X] *Sección 2: Torso*
-      * [ ] *Sección 3: Cabeza*
+      * [X] *Sección 3: Cabeza*
       * [ ] *Opciones*
     * [ ] *9. Mejoras para el hogar*
     * [ ] *10. Cercano y personal*
@@ -111,8 +111,8 @@ Versión 1.2.0 :
       * [ ] *Sección 4: Escudos*
     * [ ] *11. Autodefensa*
       * [X] *Sección 1: Pistolas de balas*
-      * [X] *Sección 2: Rifles de balas*
-      * [ ] *Sección 3: Pistolas de energía*
+      * [ ] *Sección 2: Rifles de balas*
+      * [X] *Sección 3: Pistolas de energía*
       * [X] *Sección 4: Rifles de energía*
       * [ ] *Sección 5: Granadas*
       * [ ] *Sección 6: Armas arcaicas*
@@ -149,7 +149,7 @@ Versión 1.2.0 :
   * [ ] *25. Viajar por el espacio normal*
   * [ ] *26. Combate con minas*
   * [ ] *27. Operaciones en gigantes de gas*
-  * [X] *28. Trasnpondedores, registros y préstamos*
+  * [X] *28. Transpondedores, registros y préstamos*
   * [ ] *29. Misiles y torpedos*
   * [ ] *30. Automatización de astronaves*
   * [ ] *31. Escudos gravitacionales*
@@ -161,14 +161,18 @@ Versión 1.2.0 :
 ### Versión 1.2.0:
 
 * Primer commit.
-* *Catálogo Central de Suministros*
+* [ ] *Catálogo Central de Suministros*
   * [ ] *1. Protección personal*
     * [ ] *Sección 1: Armadura*
       * [X] *Armadura antienergía*
-  * [ ] *3. Electrónica*
+  * [X] *3. Electrónica*
     * [X] *Sección 1: Visión y detección*
+    * [X] *Sección 2: Comunicaciones*
     * [X] *Sección 3: Artilugios y básicos*
   * [ ] *8. Aumentos personales*
     * [X] *Sección 2: Torso*
+    * [X] *Sección 3: Cabeza*
   * [ ] *10. Cercano y personal*
     * [X] *Sección 2: Armas de filo*
+  * [ ] *11. Autodefensa*
+    * [X] *Sección 3: Pistolas de energía*
