@@ -170,3 +170,5 @@ Versión 1.2.0 :
     * [X] *Sección 3: Artilugios y básicos*
   * [ ] *8. Aumentos personales*
     * [X] *Sección 2: Torso*
+  * [ ] *10. Cercano y personal*
+    * [X] *Sección 2: Armas de filo*
