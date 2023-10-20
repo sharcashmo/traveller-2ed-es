@@ -100,7 +100,7 @@ Versión 1.2.0 :
     * [ ] *7. Suministros médicos*
     * [ ] *8. Aumentos personales*
       * [X] *Sección 1: Miembros*
-      * [ ] *Sección 2: Torso*
+      * [X] *Sección 2: Torso*
       * [ ] *Sección 3: Cabeza*
       * [ ] *Opciones*
     * [ ] *9. Mejoras para el hogar*
@@ -162,9 +162,11 @@ Versión 1.2.0 :
 
 * Primer commit.
 * *Catálogo Central de Suministros*
-  * *1. Protección personal*
-    * *Sección 1: Armadura*
+  * [ ] *1. Protección personal*
+    * [ ] *Sección 1: Armadura*
       * [X] *Armadura antienergía*
-  * *3. Electrónica*
+  * [ ] *3. Electrónica*
     * [X] *Sección 1: Visión y detección*
     * [X] *Sección 3: Artilugios y básicos*
+  * [ ] *8. Aumentos personales*
+    * [X] *Sección 2: Torso*
