@@ -94,7 +94,9 @@ Versión 1.2.0 :
       * [X] *Sección 1: Visión y detección*
       * [X] *Sección 2: Comunicaciones*
       * [X] *Sección 3: Artilugios y básicos*
-    * [ ] *4. Ordenadores y software*
+    * [X] *4. Ordenadores y software*
+      * [X] *Sección 1: Ordenadores de a bordo*
+      * [X] *Sección 2: Paquetes de software*
     * [ ] *5. Robots*
     * [ ] *6. Herramientas e ingeniería*
     * [ ] *7. Suministros médicos*
@@ -169,6 +171,9 @@ Versión 1.2.0 :
     * [X] *Sección 1: Visión y detección*
     * [X] *Sección 2: Comunicaciones*
     * [X] *Sección 3: Artilugios y básicos*
+  * [X] *4. Ordenadores y software*
+    * [X] *Sección 1: Ordenadores de a bordo*
+    * [X] *Sección 2: Paquetes de software*
   * [ ] *8. Aumentos personales*
     * [X] *Sección 2: Torso*
     * [X] *Sección 3: Cabeza*
