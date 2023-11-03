@@ -133,10 +133,10 @@ Versión 1.2.0 :
   * [ ] *7. Habilidades generales y especialidades*
   * [X] *8. Estilos de juego alternativos*
   * [ ] *9. Combate*
-  * [ ] *10. La gravedad y sus efectos*
-  * [ ] *11. Atmósfera y vacío*
-  * [ ] *12. Enfermedades, toxinas y sustancias químicas*
-  * [ ] *13. Hambre y sed*
+  * [X] *10. La gravedad y sus efectos*
+  * [X] *11. Atmósfera y vacío*
+  * [X] *12. Enfermedades, toxinas y sustancias químicas*
+  * [X] *13. Hambre y sed*
   * [ ] *14. Efectos de la temperatura*
   * [ ] *15. Terreno, condiciones y desplazamiento*
   * [ ] *16. Encuentros con animales*
@@ -146,11 +146,11 @@ Versión 1.2.0 :
   * [ ] *20. Travellermap y la wiki*
   * [ ] *21. Astropuertos y espaciopuertos*
   * [ ] *22. Leyes e infracciones*
-  * [ ] *23. Velocidades sublumínicas*
-  * [ ] *24. El motor de salto*
-  * [ ] *25. Viajar por el espacio normal*
+  * [X] *23. Velocidades sublumínicas*
+  * [X] *24. El motor de salto*
+  * [X] *25. Viajar por el espacio normal*
   * [ ] *26. Combate con minas*
-  * [ ] *27. Operaciones en gigantes de gas*
+  * [X] *27. Operaciones en gigantes de gas*
   * [X] *28. Transpondedores, registros y préstamos*
   * [ ] *29. Misiles y torpedos*
   * [ ] *30. Automatización de astronaves*
@@ -162,22 +162,35 @@ Versión 1.2.0 :
 
 ### Versión 1.2.0:
 
-* Primer commit.
 * [ ] *Catálogo Central de Suministros*
-  * [ ] *1. Protección personal*
-    * [ ] *Sección 1: Armadura*
-      * [X] *Armadura antienergía*
-  * [X] *3. Electrónica*
-    * [X] *Sección 1: Visión y detección*
-    * [X] *Sección 2: Comunicaciones*
-    * [X] *Sección 3: Artilugios y básicos*
-  * [X] *4. Ordenadores y software*
-    * [X] *Sección 1: Ordenadores de a bordo*
-    * [X] *Sección 2: Paquetes de software*
-  * [ ] *8. Aumentos personales*
-    * [X] *Sección 2: Torso*
-    * [X] *Sección 3: Cabeza*
-  * [ ] *10. Cercano y personal*
-    * [X] *Sección 2: Armas de filo*
-  * [ ] *11. Autodefensa*
-    * [X] *Sección 3: Pistolas de energía*
+  * [ ] *La colección del Catálogo Central*
+    * [ ] *1. Protección personal*
+      * [ ] *Sección 1: Armadura*
+        * [X] *Armadura antienergía*
+    * [X] *3. Electrónica*
+      * [X] *Sección 1: Visión y detección*
+      * [X] *Sección 2: Comunicaciones*
+      * [X] *Sección 3: Artilugios y básicos*
+    * [X] *4. Ordenadores y software*
+      * [X] *Sección 1: Ordenadores de a bordo*
+      * [X] *Sección 2: Paquetes de software*
+    * [ ] *8. Aumentos personales*
+      * [X] *Sección 2: Torso*
+      * [X] *Sección 3: Cabeza*
+    * [ ] *10. Cercano y personal*
+      * [X] *Sección 2: Armas de filo*
+    * [ ] *11. Autodefensa*
+      * [X] *Sección 3: Pistolas de energía*
+* [ ] *Compendio del Viajero*
+  * [X] *10. La gravedad y sus efectos*
+  * [X] *11. Atmósfera y vacío*
+  * [X] *12. Enfermedades, toxinas y sustancias químicas*
+  * [X] *13. Hambre y sed*
+  * [X] *23. Velocidades sublumínicas*
+  * [X] *24. El motor de salto*
+  * [X] *25. Viajar por el espacio normal*
+  * [X] *27. Operaciones en gigantes de gas*
+
+### Versión 1.1.1
+
+* Primer commit.
